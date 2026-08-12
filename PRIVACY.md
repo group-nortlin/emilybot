@@ -1,7 +1,7 @@
 🔐 POLÍTICA DE PRIVACIDADE
 1. Dados Coletados
 
-A EmilyBot coleta apenas os dados estritamente necessários para seu funcionamento, podendo incluir:
+A MilyBot coleta apenas os dados estritamente necessários para seu funcionamento, podendo incluir:
 
 ID de usuários
 
@@ -23,11 +23,11 @@ Garantir a estabilidade e funcionalidade do serviço
 
 3. Armazenamento e Segurança
 
-Os dados são armazenados de forma segura e mantidos apenas pelo tempo necessário para o funcionamento do EmilyBot.
+Os dados são armazenados de forma segura e mantidos apenas pelo tempo necessário para o funcionamento do MilyBot.
 
 4. Compartilhamento de Dados
 
-❌ A EmilyBot não compartilha, vende ou repassa dados a terceiros sob nenhuma circunstância.
+❌ A MilyBot não compartilha, vende ou repassa dados a terceiros sob nenhuma circunstância.
 
 5. Solicitação de Remoção de Dados
 
@@ -39,4 +39,4 @@ Esta Política de Privacidade pode ser alterada a qualquer momento. As alteraç�
 
 7. Consentimento
 
-Ao utilizar a EmilyBot, você concorda com esta Política de Privacidade.
+Ao utilizar a MilyBot, você concorda com esta Política de Privacidade.
